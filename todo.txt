@@ -1,2 +1,1 @@
-1 - fazer upload da aplicação
 2 - criar o mirror no herokuapp
